@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 17 14:13:36 2023
-
-@author: James
-"""
-
 # Number Guessing game v1.0
 
 import random
