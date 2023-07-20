@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 26 15:46:08 2023
-
-@author: James
-"""
-
 # Rock, Paper, Scissors game v1.0
 
 import random
